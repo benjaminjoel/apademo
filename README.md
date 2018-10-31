@@ -8,4 +8,5 @@ Installation on Xampp
 4. Import the sql provided to the database
 5. Update .env file with database name, user and password
 6. Use browser and go the folder public to see the application (http://localhost/apademo/public)
------------------
+
+------------------------
